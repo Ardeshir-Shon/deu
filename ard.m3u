@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Shabhaye Mafia S04 EP3 (720p)
+
+#EXTGRP:Shabhaye Mafia
+#EXTINF:-1,Shabhaye Mafia S04 EP1 (720p)
+https://srteam.falnd.xyz/series/shabhaye-mafia/2/04.01.720.mp4
+#EXTINF:-1,Shabhaye Mafia S04 EP2 (720p)
 https://srteam.falnd.xyz/series/shabhaye-mafia/2/04.02.720.mp4
+#EXTINF:-1,Shabhaye Mafia S04 EP3 (720p)
+https://srteam.falnd.xyz/series/shabhaye-mafia/2/04.03.720.mp4
 
 #EXTGRP:Pezeshk Dehkade
 #EXTINF:-1, Pezeshk Dehkade 1 
